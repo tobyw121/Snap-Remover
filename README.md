@@ -5,8 +5,9 @@ Remove Snap From Ubuntu , Kubuntu , and Another Linux Distros
 * remove Snap and all Snap Packets
 -----------------------------------------------
 # How to use ?
-* `apt install git`
+* `sudo apt install git`
 * `git clone https://github.com/tobyw121/Snap-Remover`
-* `chmod 777 Snap-Remover.sh`
+* `cd Snap-Remover`
+* `sudo chmod 777 Snap-Remover.sh`
 * `./Snap-Remover.sh`
 
