@@ -11,15 +11,12 @@
 * `Ubuntu 21.10`     `Kubuntu 21.10`      `Xubuntu 21.10 `
 
 * `Ubuntu 22.04 LTS` `Kubuntu 22.04 LTS` `Xubuntu 22.04 LTS`
------------------------------------------------------------------
-* Snap-Remover
-* remove Snap and all Snap Packets
-* installs the normal Firefox and Synaptic
------------------------------------------------
-# How to use ?
+#
+ How to use ?
 * `sudo apt install git`
 * `git clone https://github.com/tobyw121/Snap-Remover`
 * `cd Snap-Remover`
 * `sudo chmod 777 Snap-Remover.sh`
 * `./Snap-Remover.sh`
+#
 
