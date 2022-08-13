@@ -3,6 +3,7 @@ Remove Snap From Ubuntu , Kubuntu , and Another Linux Distros
 -----------------------------------------------------------------
 * Snap-Remover
 * remove Snap and all Snap Packets
+* installs the normal Firefox and Synaptic
 -----------------------------------------------
 # How to use ?
 * `sudo apt install git`
