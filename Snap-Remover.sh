@@ -49,6 +49,6 @@ echo "Firefox was installed "
 sudo apt install synaptic -y
 
 # Fertig
-echo Snap was removed "
+echo " Snap was removed "
 echo " Goodbye Snap and all Snap Packets"
 echo " Made by Tobyw121 "
