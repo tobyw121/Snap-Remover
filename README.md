@@ -1,5 +1,5 @@
 # Snap-Remover
-`Remove Snap From Ubuntu , Kubuntu , and Another Linux Distros`
+`Remove Snap From Ubuntu , Kubuntu , Xubuntu and Another Linux Distros`
 * remove Snap and all Snap Packets
 * installs the normal Firefox and Synaptic
 
