@@ -13,10 +13,6 @@
 * `Ubuntu 22.04 LTS` `Kubuntu 22.04 LTS` `Xubuntu 22.04 LTS`
 #
  How to use ?
-* `sudo apt install git`
-* `git clone https://github.com/tobyw121/Snap-Remover`
-* `cd Snap-Remover`
-* `sudo chmod 777 Snap-Remover.sh`
-* `./Snap-Remover.sh`
+* bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/Snap-Remover/main/Snap-Remover.sh)"
 #
 
