@@ -13,6 +13,8 @@
 * `Ubuntu 22.04 LTS` `Kubuntu 22.04 LTS` `Xubuntu 22.04 LTS`
 #
  How to use ?
-* bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/Snap-Remover/main/Snap-Remover.sh)"
+```
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/Snap-Remover/main/Snap-Remover.sh)"
+```
 #
 
