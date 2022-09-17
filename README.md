@@ -14,7 +14,9 @@
 #
  How to use ?
  
- simple Method:```bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/Snap-Remover/main/Snap-Remover.sh)"```
+ simple Method:
+ 
+* `bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/Snap-Remover/main/Snap-Remover.sh)"`
  
 
  cumbersome Method :
