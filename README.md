@@ -14,7 +14,7 @@
 #
  How to use ?
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/Snap-Remover/main/Snap-Remover.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/Snap-Remover/V2/Snap-Remover.sh)"
 ```
 #
 
