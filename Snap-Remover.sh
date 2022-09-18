@@ -43,6 +43,21 @@ sudo apt update
 # Installs Firefox
 echo "Installs Firefox"
 sudo apt install firefox -y
+cat << EOF > Firefox.desktop
+[Desktop Entry]
+Name=Firefox
+Exec=firefox
+Icon=/usr/lib/firefox/browser/chrome/icons/default/default128.png
+Terminal=false
+Type=Application
+
+Comment=
+Path=
+StartupNotify=true
+EOF
+
+cp Firefox.desktop ~/Desktop/
+cp Firefox.desktop ~/Schreibtisch
 echo "Firefox was installed "
 
 # Installs Synaptic 
