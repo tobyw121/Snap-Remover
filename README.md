@@ -1,4 +1,4 @@
-# Snap-Remover
+# Remove snap
 
 `A bash script to remove snap from ubuntu , Kubuntu , Xubuntu and Another Linux Distros`
 * remove Snap and all Snap Packets
