@@ -2,7 +2,8 @@
 
 `A bash script to remove snap from ubuntu , Kubuntu , Xubuntu and Another Linux Distros`
 * remove Snap and all Snap Packets
-* installs the normal Firefox and Synaptic
+* installs the normal Firefox and Creates a launcher shortcut for Firefox to the desktop 
+* Installs Synaptic
 
 # Works with:
 
