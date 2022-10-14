@@ -36,8 +36,6 @@ sudo chown root:root /etc/apt/preferences.d/firefox.pref
 # Adds PPA repository of Firefox
 echo "Adds PPA repository of Firefox"
 echo "Adds everything For the installation of Mozilla Firefox "
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys A6DCF7707EBC211F
-#sudo apt-add-repository "deb http://ppa.launchpad.net/ubuntu-mozilla-security/ppa/ubuntu focal main"
 sudo apt-add-repository ppa:mozillateam/ppa
 sudo apt update
 
