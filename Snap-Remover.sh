@@ -54,6 +54,8 @@ Path=
 StartupNotify=true
 EOF
 
+chmod -x Firefox.desktop
+
 cp Firefox.desktop ~/Desktop/
 cp Firefox.desktop ~/Schreibtisch
 echo "Firefox was installed "
