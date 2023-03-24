@@ -13,6 +13,8 @@
 * `Ubuntu 21.10`     `Kubuntu 21.10`      `Xubuntu 21.10 `
 
 * `Ubuntu 22.04 LTS` `Kubuntu 22.04 LTS` `Xubuntu 22.04 LTS`
+
+* `Ubuntu 22.10` `Kubuntu 22.10` `Xubuntu 22.10`
 #
  How to use ?
  
